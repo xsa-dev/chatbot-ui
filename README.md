@@ -119,3 +119,7 @@ If you have any questions, feel free to reach out to Mckay on [Twitter](https://
 
 1. Tauri
 2. Error failed to bundle project: Failed to build data folders and files
+
+fatal: no email was given and auto-detection is disabled
+2023-09-17 14:03:38.109 [info] > git config --get-all user.name [3ms]
+2023-09-17 14:03:38.143 [info] > git config --get commit.template [17ms]
