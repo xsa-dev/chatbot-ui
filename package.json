@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "tauri": "tauri",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -14,6 +15,7 @@
   "dependencies": {
     "@dqbd/tiktoken": "^1.0.2",
     "@tabler/icons-react": "^2.9.0",
+    "@tauri-apps/api": "^1.4.0",
     "eventsource-parser": "^0.1.0",
     "i18next": "^22.4.13",
     "next": "13.2.4",
@@ -34,6 +36,7 @@
   "devDependencies": {
     "@mozilla/readability": "^0.4.4",
     "@tailwindcss/typography": "^0.5.9",
+    "@tauri-apps/cli": "^1.4.0",
     "@trivago/prettier-plugin-sort-imports": "^4.1.1",
     "@types/jsdom": "^21.1.1",
     "@types/node": "18.15.0",
